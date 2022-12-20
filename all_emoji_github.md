@@ -1,6 +1,5 @@
 ## All github Emoji (Smiles)
 
-[ali.md/emoji](http://ali.md/emoji)
 
 :bowtie: | :smile: | :laughing: | :blush: | :smiley: | :relaxed: | :smirk: | :heart_eyes: | :kissing_heart: | :kissing_face: | :flushed: | :relieved: | :satisfied: | :grin: | :wink: | :wink2: | :tongue: | :unamused: | :sweat_smile: | :sweat:
 
