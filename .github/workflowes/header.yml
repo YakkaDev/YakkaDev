@@ -1,6 +1,6 @@
+  on:
+    workflow_dispatch:
 name: Header
-on:
-workflow_dispatch:
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.classic.svg
