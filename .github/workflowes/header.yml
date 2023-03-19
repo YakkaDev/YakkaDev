@@ -1,9 +1,15 @@
+  name: Header
+  
   on:
     workflow_dispatch:
-name: Header
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+   
+      jobs:
+        build:
+          runs-on: ubuntu-latest
+          
+     uses: lowlighter/metrics@latest
+   with:
+     filename: metrics.classic.svg
+     token: ${{ secrets.ALL_TOKEN }}
+     base: header, repositories
+     plugin_lines: yes
